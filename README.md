@@ -20,8 +20,7 @@ Providing banks with insightful factors influencing loan defaults, aiding in sma
 - Seaborn for visualizing crucial patterns.
 - Sklearn for classification analysis and Decision Tree modeling to compare accuracies.
 
-# Optimization has been done using ensemble learning techniques
+# Optimization Steps Were Carried Out Using Below Steps
 - Boosting
 - Bagging
-- Stacking
-Also tested with the different feature states to test the changes in the prediction results.
+- Stacking / Also tested with the different feature states to test the changes in the prediction results.
