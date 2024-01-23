@@ -19,3 +19,9 @@ Providing banks with insightful factors influencing loan defaults, aiding in sma
 - Numpy and pandas for descriptive analysis.
 - Seaborn for visualizing crucial patterns.
 - Sklearn for classification analysis and Decision Tree modeling to compare accuracies.
+
+# Optimization has been done using ensemble learning techniques
+- Boosting
+- Bagging
+- Stacking
+Also tested with the different feature states to test the changes in the prediction results.
